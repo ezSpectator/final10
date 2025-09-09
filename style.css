@@ -126,7 +126,7 @@ body {
     display: flex;
     justify-content: center;
     font-family: "Titan One", sans-serif;
-    font-size: 2.6rem;
+    font-size: 2.4rem;
     flex-direction: column;
     perspective: 1000px;
 }
